@@ -190,6 +190,9 @@ font-size: 20px;
     grid-column: auto;
 }
 
+video{
+	width:500px;}
+
 #abt {
     font-size: 60px;
     margin: 5rem 1rem;
