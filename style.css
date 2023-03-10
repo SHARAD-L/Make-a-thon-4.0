@@ -166,7 +166,7 @@ body::-webkit-scrollbar-thumb
 }
 
 #timer{
-  height: 80vh;
+  height: auto;
   width: 100%;
 }
 
