@@ -1728,6 +1728,10 @@ span{
 } 
 
 @media screen and (max-width:360px) {
+	
+#main{
+	height:auto;
+      }
 
   #abt-txt{
     font-size: 12px;
